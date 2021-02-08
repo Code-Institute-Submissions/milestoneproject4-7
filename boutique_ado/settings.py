@@ -115,8 +115,8 @@ LOGIN_REDIRECT_URL = '/'
 WSGI_APPLICATION = 'boutique_ado.wsgi.application'
 
 
-# Database
-# https://docs.djangoproject.com/en/3.0/ref/settings/#databases
+Database
+https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
 if 'DATABASE_URL' in os.environ:
     DATABASES = {
@@ -126,7 +126,7 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         }
     }
 
