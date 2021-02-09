@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'a^5m3n8*3#c#g)c#-fo1l1s7igb3b=b1*f+1_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEVELOPMENT' in os.environ
 
-ALLOWED_HOSTS = ['ckz8780-boutique-ado.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['e-type.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -115,8 +115,8 @@ LOGIN_REDIRECT_URL = '/'
 WSGI_APPLICATION = 'boutique_ado.wsgi.application'
 
 
-Database
-https://docs.djangoproject.com/en/3.0/ref/settings/#databases
+#Database#
+#https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
 if 'DATABASE_URL' in os.environ:
     DATABASES = {
