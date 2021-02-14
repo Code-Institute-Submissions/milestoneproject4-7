@@ -8,7 +8,7 @@
             "description": "Men's Mountain Bike.",
             "price": 99.99,
             "category": 1,
-            "image_url": "",
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/tobias-bjerknes-pu40LpUjv5I-unsplash.jpg",
             "image": "tobias-bjerknes-pu40LpUjv51-unsplash.jpg"
         }
     }
