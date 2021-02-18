@@ -11,5 +11,43 @@
             "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/tobias-bjerknes-pu40LpUjv5I-unsplash.jpg",
             "image": "tobias-bjerknes-pu40LpUjv51-unsplash.jpg"
         }
-    }
-]
+    },
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "bk00310",
+            "name": "Woman.s Mountain Bike",
+            "description": "Woman's Mountain Bike.",
+            "price": 99.99,
+            "category": 1,
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/jan-kopriva-AM6Q-7suqs8-unsplash+(1).jpg",
+            "image": "jan-kopriva-AM6Q-7suqs8-unsplash (1).jpg"
+        }
+    },
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "bk00308",
+            "name": "Youth Mountain Bike",
+            "description": "Youth Mountain Bike.",
+            "price": 79.99,
+            "category": 1,
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/sports-2861288_1920+(1).jpg",
+            "image": "sports-2861288_1920 (1).jpg"
+        }
+    },           
+        {    "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "bk00316",
+            "name": "Mountain Bike Tour",
+            "description": "Mountain Bike Tour.",
+            "price": 199.99,
+            "category": 1,
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/forest-4366094_1920.jpg",
+            "image": "forest-4366094_1920.jpg"
+        }
+    },
+]        
