@@ -38,7 +38,7 @@
             "image": "sports-2861288_1920 (1).jpg"
         }
     },           
-        {    "pk": 1,
+    {   "pk": 1,
         "model": "products.product",
         "fields": {
             "sku": "bk00316",
@@ -50,4 +50,53 @@
             "image": "forest-4366094_1920.jpg"
         }
     },
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "bk00330",
+            "name": "Men's Road Bike",
+            "description": "Men's Road Bike.",
+            "price": 99.99,
+            "category": 1,
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/markus-spiske-38vWM4wfZqU-unsplash.jpg",
+            "image": "markus-spiske-38vWM4wfZqU-unsplash.jpg"
+        }
+    },
+    {   "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "bk00328",
+            "name": "Woman's Road Bike",
+            "description": "Woman's Road Bike.",
+            "price": 99.99,
+            "category": 1,
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/sport-5102081_1920.jpg",
+            "image": "sport-5102081_1920.jpg"
+        }
+    },
+    {   "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "bk00328",
+            "name": "Youth Road Bike",
+            "description": "Youth Road Bike.",
+            "price": 99.99,
+            "category": 1,
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/bicycle-1599047_1920.jpg",
+            "image": "bicycle-1599047_1920.jpg"
+        }
+    },
+    {   "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "bk00328",
+            "name": "Road Bike Tour",
+            "description": "Road Bike Tour.",
+            "price": 199.99,
+            "category": 1,
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/road-bike-3469499_1920.jpg",
+            "image": "road-bike-3469499_1920.jpg"
+        }
+    },     
 ]        
