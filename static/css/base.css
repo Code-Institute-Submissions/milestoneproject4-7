@@ -12,10 +12,12 @@ body {
 
 #main-nav {
     background-color: green;
+    color: green;
 }
 
 #mobile-search {
     background-color: green;
+    color: green;
 }
 
 /* from Bulma */
