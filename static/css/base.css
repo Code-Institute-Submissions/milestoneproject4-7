@@ -5,17 +5,10 @@ html {
 body {
     height: calc(100vh - 164px);
     color: #555;
-    background-color: grey;
     font-family: 'Lato';
 }
 
-#topnav .bg-white {
-    background-color: green;
-}
 
-.navbar .bg-white {
-    background-color: green;
-}
 
 /* from Bulma */
 .icon {
