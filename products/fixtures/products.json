@@ -13,11 +13,11 @@
         }
     },
     {
-        "pk": 1,
+        "pk": 2,
         "model": "products.product",
         "fields": {
             "sku": "bk00310",
-            "name": "Woman.s Mountain Bike",
+            "name": "Woman's Mountain Bike",
             "description": "Woman's Mountain Bike.",
             "price": 99.99,
             "category": 1,
@@ -26,32 +26,32 @@
         }
     },
     {
-        "pk": 1,
+        "pk": 3,
         "model": "products.product",
         "fields": {
             "sku": "bk00308",
             "name": "Youth Mountain Bike",
             "description": "Youth Mountain Bike.",
-            "price": 79.99,
+            "price": 99.99,
             "category": 1,
             "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/sports-2861288_1920+(1).jpg",
             "image": "sports-2861288_1920 (1).jpg"
         }
     },           
-    {   "pk": 1,
+    {   "pk": 4,
         "model": "products.product",
         "fields": {
             "sku": "bk00316",
             "name": "Mountain Bike Tour",
             "description": "Mountain Bike Tour.",
-            "price": 199.99,
-            "category": 1,
+            "price": 149.99,
+            "category": 2,
             "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/forest-4366094_1920.jpg",
             "image": "forest-4366094_1920.jpg"
         }
     },
     {
-        "pk": 1,
+        "pk": 5,
         "model": "products.product",
         "fields": {
             "sku": "bk00330",
@@ -63,7 +63,7 @@
             "image": "markus-spiske-38vWM4wfZqU-unsplash.jpg"
         }
     },
-    {   "pk": 1,
+    {   "pk": 6,
         "model": "products.product",
         "fields": {
             "sku": "bk00328",
@@ -75,7 +75,7 @@
             "image": "sport-5102081_1920.jpg"
         }
     },
-    {   "pk": 1,
+    {   "pk": 7,
         "model": "products.product",
         "fields": {
             "sku": "bk00328",
@@ -87,16 +87,40 @@
             "image": "bicycle-1599047_1920.jpg"
         }
     },
-    {   "pk": 1,
+    {   "pk": 8,
         "model": "products.product",
         "fields": {
             "sku": "bk00328",
             "name": "Road Bike Tour",
             "description": "Road Bike Tour.",
-            "price": 199.99,
+            "price": 149.99,
+            "category": 2,
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/road-bike-3469499_1920.jpg",
+            "image": "road-bike-3469499_1920.jpg"
+        }
+    },
+    {   "pk": 9,
+        "model": "products.product",
+        "fields": {
+            "sku": "bk00340",
+            "name": "Customize the Bike",
+            "description": "Customizxe the Bike.",
+            "price": ,
+            "category": 3,
+            "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/road-bike-3469499_1920.jpg",
+            "image": "road-bike-3469499_1920.jpg"
+        }
+    },
+    {   "pk": 10,
+        "model": "products.product",
+        "fields": {
+            "sku": "bk00350",
+            "name": "Bike Gear",
+            "description": "Bike Gear.",
+            "price": 149.99,
             "category": 1,
             "image_url": "https://e-type.s3.us-east-2.amazonaws.com/media/road-bike-3469499_1920.jpg",
             "image": "road-bike-3469499_1920.jpg"
         }
-    },     
+    }     
 ]        
