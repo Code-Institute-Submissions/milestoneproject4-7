@@ -10,14 +10,12 @@ body {
     font-family: 'Lato';
 }
 
-#topnav {
+#topnav .bg-white {
     background-color: green;
-    color: green;
 }
 
-#mobile-search {
+.navbar .bg-white {
     background-color: green;
-    color: green;
 }
 
 /* from Bulma */
