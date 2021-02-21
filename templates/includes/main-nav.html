@@ -7,11 +7,11 @@
         </li>
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-secondary mr-5" href="#" id="all-products-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Bikes
+                Bikes & Tours
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
                 <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">Bikes</a>
-                <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item "></a>
+                <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item ">Tours</a>
                 <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item "></a>
                 <a href="{% url 'products' %}" class="dropdown-item"></a>
             </div>
@@ -19,13 +19,12 @@
 
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-secondary mr-5" href="#" id="clothing-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Services
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="{% url 'products' %}?category=sale" class="dropdown-item">Tours</a>
-                <a href="{% url 'products' %}?category=service" class="dropdown-item">Repair</a>
-                <a href="{% url 'products' %}?category=sale" class="dropdown-item">Gear</a>
-                <a href="{% url 'products' %}?category=sale,service" class="dropdown-item">All Services</a>
+                <a href="{% url 'products' %}?category=sale" class="dropdown-item"></a>
+                <a href="{% url 'products' %}?category=service" class="dropdown-item"></a>
+                <a href="{% url 'products' %}?category=sale" class="dropdown-item"></a>
+                <a href="{% url 'products' %}?category=sale,service" class="dropdown-item"></a>
             </div>
         </li>
 
