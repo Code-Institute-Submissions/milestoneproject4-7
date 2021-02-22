@@ -1,16 +1,36 @@
+# Greenwood Bikes
+
+## UX and UI
+
+### User Experience
+
+What GreenwoodBikes brings is a very easy-to-use website where a bicyclist can rent a bike and buy a bike tour in Greenwood, WY.
+
+### Strategy
+
+The strategy is simplicity - the user sees images of riders n Greenwood, Wy, and wants to ride there.  Then the user sees the layout of quality bicycles for both road and trail, and the two bike tours as well. Decision making will be easy.
+
+### Scope
+
+The idea is to keep the scope right on the surface. Right there are the bikes and tours, ready to buy, no depth of the usere is required. Read the easy but informative Details and choose.
+
+### Structure 
+
+The attractive but easy site layout facilitates action. The user's eye falls right where it should, and the decision is almost made for them.
+
+## Wireframes
+
 ## Existing Features
 
-1. The Navbar - The navbar is a fully responsive navigational element. It will be seen on all pages. It contains links to the login, the Bicycles page and the shopping cart. There is a search bar on it.
+1. The Navbar - The navbar is a fully responsive navigational element. It will be seen on all pages. It contains links to the login, the Bikes & Tours page and the shopping cart. There is a search bar on it.
 
-2. The Home Page - The Home page is the opening page.
+2. The Home page - The Home page is the opening page. A carousel with three slides is seen. At the bottom left of the carousel slide, see a phrase about renting and touring. Under that is a button that takes the user to the Bikes & Tours page.
 
-3. The Bicycles Page - There you see a number of images which display either a bicycle rental, a Bicycle group tour, Bicycle services or Bicycle gear. Each image comes with a brief description of itself and the price. 
+3. The Bikes & Tours page - The Bikes & Tours page is covered with images of bikes to rent and tours to buy. Each image is described byu a short text and is priced.
 
-4. Bicycles Details Page - Each image on the Bicycles Page can be tapped on to reveal a full page with the image and a more detailed text about what comes with that image.
+4. The Details page - If the user taps on a Bikes & Tours image, the page changes to the Details page, where the image is full-page and accomanied by a larger text which tells the user all about the image.
 
-5. Login - A place where the user can log in.
-
-6. Cart Page - A page which adds up the cost of rentals and purchases and charges the customer. 
+5. Cart page - A page which adds up the cost of rentals and purchases and charges the customer. 
 
 ## Technology Used
 
