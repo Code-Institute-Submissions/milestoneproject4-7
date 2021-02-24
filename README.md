@@ -8,7 +8,7 @@ What GreenwoodBikes brings is a very easy-to-use website where a bicyclist can r
 
 ### Strategy
 
-The strategy is simplicity - the user sees images of riders n Greenwood, Wy, and wants to ride there.  Then the user sees the layout of quality bicycles for both road and trail, and the two bike tours as well. Decision making will be easy.
+The strategy is simplicity - the user sees images of riders in Greenwood, Wy, and wants to ride there.  Then the user sees the layout of quality bicycles for both road and trail, and the two bike tours as well. Decision making will be easy.
 
 ### Scope
 
