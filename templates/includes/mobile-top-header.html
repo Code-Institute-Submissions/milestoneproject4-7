@@ -41,7 +41,7 @@
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="user-login-options">
               {% if request.user.is_authenticated %} {% if request.user.is_superuser %}
-              <a href="{% url 'add_service' %}" class="dropdown-item text-uppercase"
+              <a href="{% url 'add_product' %}" class="dropdown-item text-uppercase"
                 >Service Management</a
               >
               {% endif %}
