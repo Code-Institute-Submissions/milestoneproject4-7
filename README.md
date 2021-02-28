@@ -24,13 +24,13 @@ I made a wireframe for each of the three existing pages of this website: The Hom
 
 ## Existing Features
 
-1. The Navbar - The navbar is a fully responsive navigational element. It will be seen on all pages. It contains links to the login, the Bikes & Tours page and the shopping cart. There is a search bar on it.
+1. The Navbar - The navbar is a fully responsive navigational element. It will be seen on all pages. It contains links to the login, the Bikes Tours page and the shopping cart. There is a search bar on it.
 
-2. The Home page - The Home page is the opening page. A carousel with three slides is seen. At the bottom left of the carousel slide, see a phrase about renting and touring. Under that is a button that takes the user to the Bikes & Tours page.
+2. The Home page - The Home page is the opening page. A carousel with three slides is seen. At the bottom left of the carousel slide, see a phrase about renting and touring. Under that is a button that takes the user to the Bikes Tours page.
 
-3. The Bikes & Tours page - The Bikes & Tours page is covered with images of bikes to rent and tours to buy. Each image is described byu a short text and is priced.
+3. The Bikes & Tours page - The Bikes Tours page is covered with images of bikes to rent and tours to buy. Each image is described by a short text and is priced.
 
-4. The Details page - If the user taps on a Bikes & Tours image, the page changes to the Details page, where the image is full-page and accomanied by a larger text which tells the user all about the image.
+4. The Details page - If the user taps on a Bikes Tours image, the page changes to the Details page, where the image is full-page and accomanied by a larger text which tells the user all about the image.
 
 5. Cart page - A page which adds up the cost of rentals and purchases and charges the customer. 
 
