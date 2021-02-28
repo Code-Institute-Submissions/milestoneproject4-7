@@ -20,6 +20,8 @@ The attractive but easy site layout facilitates action. The user's eye falls rig
 
 ## Wireframes
 
+I made a wireframe for each of the three existing pages of this website: The Home page, the Bike Tours page, and the Bike Tours detail page.
+
 ## Existing Features
 
 1. The Navbar - The navbar is a fully responsive navigational element. It will be seen on all pages. It contains links to the login, the Bikes & Tours page and the shopping cart. There is a search bar on it.
